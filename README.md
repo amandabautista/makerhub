@@ -1,3 +1,5 @@
+<img src="assets/nilo-logo.png" alt="Nilo, the MakerHub mascot: a snail whose shell is a spool of filament" width="120">
+
 # MakerHub
 
 A local-first desktop library for 3D printing. It keeps the models you download, the prints you make and the filament you use in one place, on your own computer.
