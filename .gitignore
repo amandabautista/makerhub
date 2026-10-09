@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Raw recordings and captures. Only reviewed images go in screenshots/,
+# and the video is hosted elsewhere and linked from demo/README.md.
+*.mov
+*.mp4
+raw/
