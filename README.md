@@ -109,6 +109,8 @@ The full brand guide, from the type scale to the three palettes and the rules fo
 
 ## Demo
 
+https://github.com/user-attachments/assets/8f2fd719-6198-466b-b164-9f4c4132e6ca
+
 A 66-second walkthrough of MakerHub, recorded with my own library. No sound: the captions carry the story. Some frames from it:
 
 | | | |
