@@ -109,14 +109,15 @@ The full brand guide, from the type scale to the three palettes and the rules fo
 
 ## Demo
 
-https://github.com/user-attachments/assets/8f2fd719-6198-466b-b164-9f4c4132e6ca
+https://github.com/user-attachments/assets/0720f7aa-b3de-417e-a620-edda3b733540
 
-A 66-second walkthrough of MakerHub, recorded with my own library. No sound: the captions carry the story. Some frames from it:
+A 70-second walkthrough of MakerHub, recorded with my own library. No sound: the captions carry the story. Some frames from it:
 
 | | | |
 |---|---|---|
-| ![Search](demo/stills/01-search.png) | ![Tags](demo/stills/02-tags.png) | ![Versions and prints](demo/stills/03-versions-and-prints.png) |
-| ![Inbox preview](demo/stills/04-inbox-turn.png) | ![Statistics](demo/stills/05-statistics.png) | ![Dark mode](demo/stills/06-dark-mode.png) |
+| ![Search](demo/stills/01-search.png) | ![Tags](demo/stills/02-tags.png) | ![Project data](demo/stills/03-project-data.png) |
+| ![Versions and prints](demo/stills/04-versions-and-prints.png) | ![Inbox preview](demo/stills/05-inbox-turn.png) | ![Filaments](demo/stills/06-filaments.png) |
+| ![Statistics](demo/stills/07-statistics.png) | ![Milestone reached](demo/stills/08-milestone-reached.png) | ![Dark mode](demo/stills/09-dark-mode.png) |
 
 ## What I learned
 
